@@ -39,7 +39,6 @@ The application is built using modular UI components to ensure clean structure a
 - Supports Dark Mode (default)
 - Supports Light Mode
 - Dynamically updates:
-  - Buttons
   - Panels
   - Text fields
   - History UI
@@ -52,7 +51,7 @@ The application is built using modular UI components to ensure clean structure a
   - AC / Backspace / Equals
 - Hover effects for better UX
 
-  ---
+---
 
 ### 🔗 Smart Chaining
 - Continuous calculations without pressing `=`
