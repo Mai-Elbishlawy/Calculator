@@ -19,6 +19,41 @@ This project demonstrates a clean **Object-Oriented Programming (OOP)** architec
 
 ---
 
+## 🧩 Project Components
+
+The application is built using modular UI components to ensure clean structure and scalability:
+
+### 📌 Menu Bar
+- Provides quick access to:
+  - 🎨 Theme switching (Dark / Light)
+  - 📜 History management
+  - ⚡ Application control (ON / OFF)
+
+### 📜 History Panel
+- Displays all previous calculations
+- Uses Stack-based storage (LIFO)
+- Shows latest operations first
+- Includes clear history option
+
+### 🎨 Theme System
+- Supports Dark Mode (default)
+- Supports Light Mode
+- Dynamically updates:
+  - Buttons
+  - Panels
+  - Text fields
+  - History UI
+
+### 🔢 Calculator Keypad
+- Grid-based button layout
+- Supports:
+  - Numbers
+  - Operators (+ - × ÷ %)
+  - AC / Backspace / Equals
+- Hover effects for better UX
+
+  ---
+
 ### 🔗 Smart Chaining
 - Continuous calculations without pressing `=`
 - Previous result automatically becomes the next operand
@@ -41,7 +76,7 @@ This project demonstrates a clean **Object-Oriented Programming (OOP)** architec
 - Smooth hover effects
 - Clean mobile-style calculator UI
 
-## 🖼️ Screenshots
+## 🖼️ Preview
 
 <p align="center">
   <img src="Images/Dark.png" width="250"/>
@@ -88,6 +123,8 @@ This project demonstrates a clean **Object-Oriented Programming (OOP)** architec
 - **Layout Consistency:**
   - Grid-based button alignment
   - Balanced spacing between elements
+ 
+- Subtle shadows and depth effects for a modern UI feel
 
 ---
 
