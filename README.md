@@ -56,8 +56,8 @@ This project demonstrates a clean **Object-Oriented Programming (OOP)** architec
 <br>
 
 <p align="center">
-  <img src="Images/history.png" width="250"/>
-  <img src="Images/off.png" width="250"/>
+  <img src="Images/History.png" width="250"/>
+  <img src="Images/OFF.png" width="250"/>
 </p>
 
 <p align="center">
