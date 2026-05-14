@@ -2,7 +2,6 @@
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Swing](https://img.shields.io/badge/GUI-Swing-blue?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 A modern, fully functional desktop calculator built using **Java Swing**.  
 This project demonstrates a clean **Object-Oriented Programming (OOP)** architecture with separation of logic, UI, styling, and event handling.
@@ -113,6 +112,8 @@ This project demonstrates a clean **Object-Oriented Programming (OOP)** architec
 - Stack-based history system
 - Modern UI with theme switching
 
+---
+
 ## 🛠️ Technologies Used
 - Java
 - Java Swing (GUI)
@@ -128,6 +129,8 @@ This project combines:
 iOS-style modern UI
 Windows-style calculator behavior
 Scalable clean architecture
+
+---
 
 ## 👩‍💻 Developed By
 
