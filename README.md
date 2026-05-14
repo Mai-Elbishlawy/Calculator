@@ -36,15 +36,49 @@ This project demonstrates a clean **Object-Oriented Programming (OOP)** architec
 ---
 
 ### 🎨 UI & Themes
+
 - Dark Mode (default)
 - Light Mode support
 - Smooth hover effects
 - Clean mobile-style calculator UI
 
-> 🖼️ Add screenshots:
-- images/ui.png
-- images/dark.png
-- images/light.png
+## 🖼️ Screenshots
+
+**Dark Mode:**
+![Dark Theme](Images/Dark.png)
+
+**Light Mode:**
+![Light Theme](Images/Light.png)
+
+**History Panel:**
+![History](Images/History.png)
+
+**OFF Mode:**
+![Off Mode](Images/OFF.png)
+
+---
+
+## 🎛️ Buttons & Styling
+
+- **Modern Button Design:**
+  - Rounded buttons inspired by iOS design
+  - Clean spacing and consistent sizing
+
+- **Interactive Feedback:**
+  - Smooth hover effects for better user experience
+  - Visual response on button click
+
+- **Color System:**
+  - Distinct colors for operators and numbers
+  - Clear visual hierarchy for better usability
+
+- **Typography:**
+  - Readable font with proper sizing
+  - Dynamic formatting for large numbers
+
+- **Layout Consistency:**
+  - Grid-based button alignment
+  - Balanced spacing between elements
 
 ---
 
