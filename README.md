@@ -43,17 +43,27 @@ This project demonstrates a clean **Object-Oriented Programming (OOP)** architec
 
 ## 🖼️ Screenshots
 
-**Dark Mode:**
-![Dark Theme](Images/Dark.png)
+<p align="center">
+  <img src="Images/Dark.png" width="250"/>
+  <img src="Images/Light.png" width="250"/>
+</p>
 
-**Light Mode:**
-![Light Theme](Images/Light.png)
+<p align="center">
+  <b>Dark Mode</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>Light Mode</b>
+</p>
 
-**History Panel:**
-![History](Images/History.png)
+<br>
 
-**OFF Mode:**
-![Off Mode](Images/OFF.png)
+<p align="center">
+  <img src="Images/history.png" width="250"/>
+  <img src="Images/off.png" width="250"/>
+</p>
+
+<p align="center">
+  <b>History Panel</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <b>OFF Mode</b>
+</p>
 
 ---
 
