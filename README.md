@@ -1,1 +1,114 @@
-# Calculator
+# 🧮 Smart Calculator (Java Swing)
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Swing](https://img.shields.io/badge/GUI-Swing-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+A modern, fully functional desktop calculator built using **Java Swing**.  
+This project demonstrates a clean **Object-Oriented Programming (OOP)** architecture with separation of logic, UI, styling, and event handling.
+
+---
+
+## ✨ Features
+
+### ➗ Core Functions
+- Basic arithmetic operations: `+`, `-`, `×`, `÷`, `%`
+- Decimal number support
+- Backspace (⌫)
+- Clear All (AC)
+- ON / OFF system to enable/disable calculator
+
+---
+
+### 🔗 Smart Chaining
+- Continuous calculations without pressing `=`
+- Previous result automatically becomes the next operand
+- Supports operator chaining naturally
+
+---
+
+### 📜 History System (Stack-Based)
+- Stores all operations using **Stack (LIFO)**
+- Saves full expressions with results
+- Displays newest history first
+- Clear history option
+
+---
+
+### 🎨 UI & Themes
+- Dark Mode (default)
+- Light Mode support
+- Smooth hover effects
+- Clean mobile-style calculator UI
+
+> 🖼️ Add screenshots:
+- images/ui.png
+- images/dark.png
+- images/light.png
+
+---
+
+## 🏗️ Project Structure
+
+- CalculatorLogic → Handles all math operations  
+- CalculatorHandler → Manages events & chaining logic  
+- Frame → Builds GUI layout  
+- HistoryManager → Stack-based history system  
+- CalculatorStyle → UI styling & effects  
+
+---
+
+## 📌 Example Usage
+6 × 6 = 36
+36 × 6 = 216
+216 - 10 = 206
+
+10 + 5 = 15
+15 × 3 = 45
+45 ÷ 5 = 9
+
+7 + 3 = 10
+10 % 4 = 2
+
+---
+
+## 💡 Key Highlights
+- Clean OOP design
+- Modular architecture
+- Real-time calculation
+- Stack-based history system
+- Modern UI with theme switching
+
+## 🛠️ Technologies Used
+- Java
+- Java Swing (GUI)
+- AWT (Events)
+- Stack Data Structure
+
+---
+
+## ⭐ Note
+
+This project combines:
+
+iOS-style modern UI
+Windows-style calculator behavior
+Scalable clean architecture
+
+## 👩‍💻 Developed By
+
+Designed and implemented to strengthen skills in:
+
+- Object-Oriented Programming (OOP)
+- Java Swing GUI Development
+- Event-Driven Architecture
+- Data Structures (Stack)
+
+With a focus on writing clean, modular, and scalable code.
+
+---
+
+## 🚀 How to Run
+
+```bash
+git clone https://github.com/yourusername/SmartCalculator.git
